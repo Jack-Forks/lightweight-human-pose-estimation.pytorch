@@ -1,3 +1,6 @@
 *.pyc
 __pycache__
 .idea/
+input_videos
+weights
+.vscode/launch.json
